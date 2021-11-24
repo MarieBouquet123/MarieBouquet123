@@ -1,0 +1,10 @@
+Exam 03 
+=====================================
+Fundamentals		00.00/05.00
+Problem Solving		00.00/05.00
+Tracing			00.00/05.00
+Debugging		00.00/05.00
+=====================================
+Total			00.00/20.00
+
++ assessment is missing.
